@@ -1,0 +1,15 @@
+C:\GeekBrains\Itogovaya_rabota\bin\Debug\net7.0\Itogovaya_rabota.exe
+C:\GeekBrains\Itogovaya_rabota\bin\Debug\net7.0\Itogovaya_rabota.deps.json
+C:\GeekBrains\Itogovaya_rabota\bin\Debug\net7.0\Itogovaya_rabota.runtimeconfig.json
+C:\GeekBrains\Itogovaya_rabota\bin\Debug\net7.0\Itogovaya_rabota.dll
+C:\GeekBrains\Itogovaya_rabota\bin\Debug\net7.0\Itogovaya_rabota.pdb
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\Itogovaya_rabota.csproj.AssemblyReference.cache
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\Itogovaya_rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\Itogovaya_rabota.AssemblyInfoInputs.cache
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\Itogovaya_rabota.AssemblyInfo.cs
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\Itogovaya_rabota.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\Itogovaya_rabota.dll
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\refint\Itogovaya_rabota.dll
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\Itogovaya_rabota.pdb
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\Itogovaya_rabota.genruntimeconfig.cache
+C:\GeekBrains\Itogovaya_rabota\obj\Debug\net7.0\ref\Itogovaya_rabota.dll
